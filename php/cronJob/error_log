@@ -1,0 +1,30 @@
+[02-Jul-2016 00:00:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[02-Jul-2016 00:00:02 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[02-Jul-2016 00:00:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[03-Jul-2016 00:00:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[03-Jul-2016 00:00:04 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[03-Jul-2016 00:00:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[04-Jul-2016 00:00:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[04-Jul-2016 00:00:02 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[04-Jul-2016 00:00:02 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[05-Jul-2016 00:00:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[05-Jul-2016 00:00:03 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[05-Jul-2016 00:00:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[31-Jul-2016 00:00:06 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 5
+[31-Jul-2016 00:00:06 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 8
+[31-Jul-2016 00:00:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 8
+[31-Jul-2016 00:00:06 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[31-Jul-2016 00:00:06 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[31-Jul-2016 00:00:06 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[01-Aug-2016 00:00:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[01-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[01-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[01-Aug-2016 00:00:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 5
+[01-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 8
+[01-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 8
+[02-Aug-2016 00:00:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 6
+[02-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[02-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deletePetList.php on line 10
+[02-Aug-2016 00:00:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host '103.21.59.166:3306' (2) in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 5
+[02-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 8
+[02-Aug-2016 00:00:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/appcom/public_html/petoandme.com/API/cronJob/deleteCampaignList.php on line 8
